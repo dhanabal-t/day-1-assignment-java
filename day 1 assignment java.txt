@@ -1,0 +1,5 @@
+var output = [];
+for (i = 0; i < 5; i++) {
+    output.push(' * ');
+}
+console.log(output.join(''));
